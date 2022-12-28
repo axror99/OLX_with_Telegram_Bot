@@ -1,0 +1,68 @@
+[
+  {
+    "productList": [],
+    "parentId": 0,
+    "name": "Electronics",
+    "id": 1
+  },
+  {
+    "productList": [],
+    "parentId": 0,
+    "name": "Transport",
+    "id": 2
+  },
+  {
+    "productList": [],
+    "parentId": 0,
+    "name": "Jobs",
+    "id": 3
+  },
+  {
+    "productList": [],
+    "parentId": 0,
+    "name": "Fashion \u0026 Style",
+    "id": 4
+  },
+  {
+    "productList": [],
+    "parentId": 1,
+    "name": "Phones",
+    "id": 5
+  },
+  {
+    "productList": [],
+    "parentId": 1,
+    "name": "Television",
+    "id": 6
+  },
+  {
+    "productList": [],
+    "parentId": 2,
+    "name": "Automobile",
+    "id": 7
+  },
+  {
+    "productList": [],
+    "parentId": 4,
+    "name": "Men",
+    "id": 8
+  },
+  {
+    "productList": [],
+    "parentId": 4,
+    "name": "Women",
+    "id": 9
+  },
+  {
+    "productList": [],
+    "parentId": 5,
+    "name": "Iphone",
+    "id": 10
+  },
+  {
+    "productList": [],
+    "parentId": 3,
+    "name": "IT",
+    "id": 63
+  }
+]

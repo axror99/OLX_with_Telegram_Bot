@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Iphone 14",
+    "photo": "AgACAgIAAxkBAAICKGNvh5bSXaz7gvFsUpQG9LVXCL3MAAKivzEbSRx4S90Ss1c6nBM0AQADAgADcwADKwQ",
+    "categoryId": 10,
+    "price": 15000.0,
+    "ownerName": "Axror",
+    "ownerPhoneNumber": "+998991234567",
+    "description": "Holati yahshi, rangi qora",
+    "saleState": false,
+    "dateAndTime": "Time: 16:49  Date: 12/11/2022",
+    "id": 11
+  },
+  {
+    "name": "Iphone 11",
+    "photo": "AgACAgIAAxkBAAICY2Nv9P4o5WK3-cQWwn9qmLJMl0XRAAJuwzEbSRyASxonN3Ql57cGAQADAgADcwADKwQ",
+    "categoryId": 10,
+    "price": 4000000.0,
+    "ownerName": "Azamat",
+    "ownerPhoneNumber": "+998977654321",
+    "description": "Holati o\u0027rta, batareyka alishgan, rangi oq",
+    "saleState": false,
+    "dateAndTime": "Time: 00:35  Date: 13/11/2022",
+    "id": 12
+  },
+  {
+    "name": "Iphone 12 pro",
+    "photo": "AgACAgIAAxkBAAICaGNv9apbmeKoJCQvi7Oybn6IoBHyAAJvwzEbSRyASxWFMjNDP7BdAQADAgADcwADKwQ",
+    "categoryId": 10,
+    "price": 7000000.0,
+    "ownerName": "Azmiddin",
+    "ownerPhoneNumber": "+998977652134",
+    "description": "Holati o\u0027rta, ekranda sal chizig\u0027i bor, rangi kulrang",
+    "saleState": false,
+    "dateAndTime": "Time: 00:37  Date: 13/11/2022",
+    "id": 14
+  },
+  {
+    "name": "Samsung QLED 75",
+    "photo": "AgACAgIAAxkBAAIDQWNw4OqAY8U2-2SoAAERdRLpgIqT1AAC3sAxG0kciEtrgKKQS3vJEwEAAwIAA3MAAysE",
+    "categoryId": 6,
+    "price": 8000000.0,
+    "ownerName": "Eshmat",
+    "ownerPhoneNumber": "+998916543217",
+    "description": "Holati yahshi, Ultra HD central stand",
+    "saleState": false,
+    "dateAndTime": "Time: 17:22  Date: 13/11/2022",
+    "id": 24
+  },
+  {
+    "name": "Artel TV",
+    "photo": "AgACAgIAAxkBAAIDSmNw4eTs0ZgYhh25NNkvFDsG8VslAALjwDEbSRyIS2hzxYzoVTslAQADAgADcwADKwQ",
+    "categoryId": 6,
+    "price": 5000000.0,
+    "ownerName": "Alisher",
+    "ownerPhoneNumber": "+998903217654",
+    "description": "LED TV , Holat a\u0027lo",
+    "saleState": false,
+    "dateAndTime": "Time: 17:25  Date: 13/11/2022",
+    "id": 28
+  },
+  {
+    "name": "Chevrolet Cobalt",
+    "photo": "AgACAgIAAxkBAAIDUWNw4raeCgO0IAwAAW2It-ND29QoOwAC5cAxG0kciEuons-PtCySPgEAAwIAA3MAAysE",
+    "categoryId": 7,
+    "price": 115000000,
+    "ownerName": "Baxodir",
+    "ownerPhoneNumber": "+998914576321",
+    "description": "Rangi qora, holati yahshi, 1000 km yurgan",
+    "saleState": false,
+    "dateAndTime": "Time: 17:30  Date: 13/11/2022",
+    "id": 33
+  },
+  {
+    "name": "Chevrolet Nexia 3",
+    "photo": "AgACAgIAAxkBAAIDVmNw47vgG2RDFxvq0wABXlaa90aQpwAC8MAxG0kciEueffFXZzQD-AEAAwIAA3MAAysE",
+    "categoryId": 7,
+    "price": 90000000,
+    "ownerName": "Bobur",
+    "ownerPhoneNumber": "+998971762354",
+    "description": "Holat o\u0027rta 3000 km yurgan",
+    "saleState": false,
+    "dateAndTime": "Time: 17:33  Date: 13/11/2022",
+    "id": 39
+  },
+  {
+    "name": "Kastyum shim",
+    "photo": "AgACAgIAAxkBAAIDX2Nw5U0_EkVTefFUhv-fYgABHWyVjwADwTEbSRyIS_Pt7Gwpw_FoAQADAgADcwADKwQ",
+    "categoryId": 8,
+    "price": 400000.0,
+    "ownerName": "Oybek",
+    "ownerPhoneNumber": "+998931237546",
+    "description": "Yangi mahsulot, sifati a\u0027lo darajada",
+    "saleState": false,
+    "dateAndTime": "Time: 17:40  Date: 13/11/2022",
+    "id": 46
+  },
+  {
+    "name": "Hijob ro\u0027mol",
+    "photo": "AgACAgIAAxkBAAIDZGNw5iskxonYuLU_OuxC8JtJLTk_AAIEwTEbSRyIS2BBlqTwxalzAQADAgADcwADKwQ",
+    "categoryId": 9,
+    "price": 150000.0,
+    "ownerName": "Ayyollar liboslari do\u0027kon",
+    "ownerPhoneNumber": "+998903256417",
+    "description": "Sifati yahshi, turli xil rangda mavjud",
+    "saleState": false,
+    "dateAndTime": "Time: 17:44  Date: 13/11/2022",
+    "id": 54
+  },
+  {
+    "name": "Junior Developer",
+    "photo": "AgACAgIAAxkBAAIDcmNw52XMzd6_UQOD74rruGJ4zsFxAAIIwTEbSRyISwUPybz0goHSAQADAgADcwADKwQ",
+    "categoryId": 63,
+    "price": 7000000.0,
+    "ownerName": "EPAM",
+    "ownerPhoneNumber": "+998785467213",
+    "description": "Faqat Junior dasturchilar ishga olamiz, Middle va Seniorlar uchun bo\u0027sh ish o\u0027rinlari mavjud emas. Ish vaqti 9:00 dan 18:00 gacha maosh yuqorida keltirilgan.",
+    "saleState": false,
+    "dateAndTime": "Time: 17:51  Date: 13/11/2022",
+    "id": 74
+  }
+]
